@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UX Design Chapters 1–2 Summary</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="container">
+            <h1>UX Design: Chapters 1–2 Summary</h1>
+            <p>Summarized by Evan Brooks • January 2026</p>
+            <nav class="nav-bar">
+                <a href="#chapter1">Chapter 1</a>
+                <a href="#chapter2">Chapter 2</a>
+                <a href="#about">About</a>
+            </nav>
+        </div>
+    </header>
+
+    <section id="chapter1" class="section">
+        <div class="container">
+            <h2>Chapter 1: The Tao of UX Design</h2>
+
+            <h3>What Is User Experience Design?</h3>
+            <p>
+                Chapter 1 introduces UX design as a holistic practice that shapes how people experience a product or service, not just what it looks like on a screen. In this book, UX is defined broadly to include anything that affects the user, from digital interfaces to physical environments and social interactions. The focus here is on digital interactive products like websites and mobile apps, and the chapter explains how UX bridges business goals, user needs, and real-world constraints.
+            </p>
+
+            <h3>About UX Designers</h3>
+            <p>
+                UX designers tend to be curious, passionate, and empathetic. These traits help them understand people’s needs and motivations instead of assuming what users want. The chapter describes how designers balance logic (structure and feasibility) with emotion (user delight and trust) to create meaningful experiences.
+            </p>
+
+            <h3>Where UX Designers Live</h3>
+            <p>
+                UX is a collaborative field that thrives on community. This section highlights professional organizations, events, and online forums where designers learn, share ideas, and grow. The takeaway is that networking and continuous learning are essential parts of being a UX designer.
+            </p>
+        </div>
+    </section>
+
+    <section id="chapter2" class="section">
+        <div class="container">
+            <h2>Chapter 2: The Project Ecosystem</h2>
+
+            <h3>Identify the Type of Product</h3>
+            <p>
+                UX design depends on understanding the type of product you’re building. Chapter 2 introduces four core product types: brand presence (general company site), promotional products (short-term campaign experiences), content sources (information hubs), and task-based applications (tools for specific workflows). Many real-world products combine elements of these types.
+            </p>
+
+            <h3>Consider Different Devices</h3>
+            <p>
+                Devices influence how people interact with digital experiences. Designers must adapt layouts and interactions for phones, tablets, desktops, wearables, and more. The chapter also discusses mobile-first mindset and responsive design techniques to ensure accessibility across contexts.
+            </p>
+
+            <h3>Choose Your Hats</h3>
+            <p>
+                UX designers often take on multiple roles: information architect, interaction designer, UI designer, product designer, and user researcher. In smaller teams these roles blur, and designers may also act as content strategists, UX writers, or business analysts depending on project needs.
+            </p>
+
+            <h3>Understand the Company Culture</h3>
+            <p>
+                Company culture shapes how UX work is valued and executed. Factors like company size, design maturity, hierarchy, and pace affect how decisions are made and how UX fits into strategy. Recognizing these aspects early helps designers navigate politics and advocate for users effectively.
+            </p>
+
+            <h3>Pulling It Together</h3>
+            <p>
+                The chapter concludes by reminding UX designers that understanding the ecosystem — product type, devices, roles, and culture — is essential for successful design. This context informs planning, communication, decision-making, and collaboration throughout the project lifecycle.
+            </p>
+        </div>
+    </section>
+
+    <footer id="about" class="main-footer">
+        <div class="container">
+            <p>Summary created by Evan Brooks for UX Design course (CSCI8266). Inspired by example layout from Frontiers of Tech.</p>
+            <p>&copy; 2026 • All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
